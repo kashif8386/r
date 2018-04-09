@@ -1,8 +1,12 @@
+import java.util.Scanner;
 
 public class Mainclass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner s = new Scanner(System.in);
+		int value = s.nextInt();
+		Assertion assertionn = new Assertion();
+		assertionn.assertion(value);
 
 	}
 
