@@ -1,7 +1,7 @@
 package assertionsException;
 
 public class exceptionhandling {
-	
+	//
 	int nominator;
 	int denumerator;
 	int result;

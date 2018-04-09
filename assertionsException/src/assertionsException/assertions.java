@@ -1,7 +1,7 @@
 package assertionsException;
 
 public class assertions {
-	
+	//
 	int variableA;
 	int variableB;
 	int total_sum;
